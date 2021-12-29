@@ -1,0 +1,11 @@
+<form>
+<p>имя</p><br>
+<input type="text" value="имя"><br>
+<p>фамилия</p><br>
+<input type="text" value="фамилия"><br>
+<p>логин</p><br>
+<input type="text" value="логин"><br>
+<p>пароль</p><br>
+<input type="rassword" value="123"><br>
+<button>регестрация</button>
+</form>
