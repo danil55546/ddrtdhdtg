@@ -1,0 +1,7 @@
+<form>
+<p>логин</p><br>
+<input type="text" value="логин"><br>
+<p>пароль</p><br>
+<input type="rassword" value="123"><br>
+<button>войти</button>
+</form>
